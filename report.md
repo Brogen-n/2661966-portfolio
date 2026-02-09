@@ -1,0 +1,1 @@
+In this lab, you will learn the fundamentals of version control using Git and GitHub while building a semantic HTML portfolio page. You will initialise a repository, manage branches.write meaningful commit messages, and deploy your portfolio to GitHub Pages.
